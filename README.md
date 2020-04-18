@@ -18,8 +18,9 @@ These are the scripts I wrote for my Visual Arts Senior Thesis of Spring 2020, P
 |![](samples/animated_Audrey_False_11_False_True.gif) | ![](samples/animated_Disney_bin_10_8_0_False_True.gif) |
 
 ## USAGE:
-**Requires Python 3, numpy, and cv2
+**Requires Python 3, numpy, and cv2\
 **Folder structure: must have one image in [name]/plate/ and timelapse photographs in [name]/bg/. All photographs must be of same dimension.
+
 ### timelapse.py:
   python timelapse.py [name] [mapping] [--inorder] [--tag]
   - Input:\
