@@ -18,7 +18,7 @@ These are the scripts I wrote for my Visual Arts Senior Thesis of Spring 2020, P
 
 
 ## USAGE:
-**Requires Python 3
+**Requires Python 3, numpy, and cv2
 ### timelapse.py:
   python timelapse.py [name] [mapping] [--inorder] [--tag]
   - Input:\
